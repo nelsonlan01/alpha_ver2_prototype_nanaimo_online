@@ -16,7 +16,7 @@ A prototype from Nelson, Lan. Who are former Nanaimo online player since server 
 
 
 ===============================================
-# include  真。ReadMe; 
+# include  ReadMe; 
 def 第二試行版 extends 第一試行版
 
 需要下載exe及alpha_nanaimo_rebuild_Data 資料夾，才可成功啟動啟動器。
